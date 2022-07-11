@@ -15,5 +15,6 @@ You will find that if you try to access the site from another PC, your firewall 
 
 More advanced things to do include
 1. change the JSON
-2. run in the cloud and use Wireshark to capture the exchange
-3. run in the cloud to open the firewall and observe access from other PCs
+2. use Python to access the API from code
+3. run in the cloud and use Wireshark to capture the exchange
+4. run in the cloud to open the firewall and observe access from other PCs
